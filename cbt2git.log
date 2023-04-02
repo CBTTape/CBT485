@@ -1,0 +1,11 @@
+2023-04-03 00:37:59.738736 - Initialized conversion of CBT485
+2023-04-03 00:37:59.842216 - Received CBT.V504.FILE485.PDS from FILE485.XMI 
+2023-04-03 00:37:59.845405 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:37:59.846678 - Found $$INSTR.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/$$INSTR
+2023-04-03 00:37:59.847771 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/$$NOTE01
+2023-04-03 00:37:59.848961 - Found $$README.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/$$README
+2023-04-03 00:37:59.850469 - Found $CHANGE.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/$CHANGE
+2023-04-03 00:37:59.851758 - Found @FILE485.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/@FILE485
+2023-04-03 00:37:59.852786 - Found TESTVTM$.jcl (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/TESTVTM$
+2023-04-03 00:37:59.854484 - Found TESTVTM2.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/TESTVTM2
+2023-04-03 00:37:59.855981 - Found TESTVT38.txt (text/plain) in CBT.V504.FILE485.PDS, moved to PDS/TESTVT38
