@@ -1,0 +1,10 @@
+2025-04-13 20:05:03.121296 - Received CBT.V508.FILE485.PDS from FILE485.XMI 
+2025-04-13 20:05:03.122171 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:05:03.122252 - Found $$INSTR.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/$$INSTR
+2025-04-13 20:05:03.122400 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/$$NOTE01
+2025-04-13 20:05:03.122466 - Found $$README.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/$$README
+2025-04-13 20:05:03.122525 - Found $CHANGE.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/$CHANGE
+2025-04-13 20:05:03.122581 - Found @FILE485.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/@FILE485
+2025-04-13 20:05:03.122636 - Found TESTVTM$.jcl (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/TESTVTM$
+2025-04-13 20:05:03.122733 - Found TESTVTM2.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/TESTVTM2
+2025-04-13 20:05:03.122858 - Found TESTVT38.txt (text/plain) in CBT.V508.FILE485.PDS, moved to PDS/TESTVT38
